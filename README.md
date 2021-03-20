@@ -1,8 +1,8 @@
 # Dib2 ('dibdib') Family of Apps
 
-Dib2Calc, aka Dibdib Calculator
-Dib2Qm, aka Dibdib Messenger
-Dib2J
+- Dib2Calc, aka Dibdib Calculator
+- Dib2Qm, aka Dibdib Messenger
+- Dib2J
 
 See 'docs' or https://dib2x.github.io for further details.
 
